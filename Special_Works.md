@@ -1,4 +1,9 @@
 ### 20.01.2023 (announcement Chitter)
+- The launch of version 1.6 of **Chitter** was successful! 🥳
+- The new update is live now :)
+- https://chitter.ml 🔗
+
+### 20.01.2023 (announcement Chitter)
 - We are now starting the launch of v1.6.
 
 ### 20.01.2023 (announcement Chitter)

@@ -1,4 +1,8 @@
 ### 20.01.2023 (announcement Chitter)
+- https://github.com/linkspreed/Chitter/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 20.01.2023 (announcement Chitter)
 - The launch of version 1.6 of **Chitter** was successful! 🥳
 - The new update is live now :)
 - https://chitter.ml 🔗

@@ -1,4 +1,7 @@
 ### 20.01.2023 (announcement Chitter)
+- The servers are now ready for the launch of version 1.6 for **Chitter**.
+
+### 20.01.2023 (announcement Chitter)
 - The code is now ready for the launch of version 1.6 for **Chitter**.
 
 ### 20.01.2023 (announcement Chitter)

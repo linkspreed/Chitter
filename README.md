@@ -1,4 +1,4 @@
-# <img align="left" alt="Chitter" width="200px" src="https://chitter.ml/media/img/logo.png" draggable="false" /> ([Click to try 🚀](https://chitter.ml/)) (v1.6)
+# <img align="left" alt="Chitter" width="150px" src="https://chitter.ml/media/img/logo.png" draggable="false" /> ([Click to try 🚀](https://chitter.ml/)) (v1.6)
 
 Chitter 🎮 is a social network for everyone who loves gaming 👾 or likes to share photos and shorts in groups.
 

@@ -1,3 +1,6 @@
+### 11.06.2023 (announcement Chitter)
+- 🎉Exciting news! We have added Chitter to our subdomain system🚀. Now https://chitter.ml will redirect you to https://chitter.linkspreed.com. Don't worry, nothing will change and you can keep using the platform as usual💻. Have you tried Chitter yet? #Chitter #Linkspreed #Subdomain #SocialMedia📱😃
+
 ### 20.01.2023 (announcement Chitter)
 - https://github.com/linkspreed/Chitter/blob/main/changelog.md
 - The entire changelog is now available on Github.
